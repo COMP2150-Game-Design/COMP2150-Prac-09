@@ -1,7 +1,7 @@
 # Week 09 - Playtesting Tools
-In today's prac, we will be introducing you to some of the tools and standards to use when conducting playtests.
+In today's prac, we will be introducing you to some of the tools and standards to use when conducting playtests. You will be conducting a trial playtest on your tabletop game, giving you the experience and insight you need for your future playtests.
 
-Please note: although you are doing a "full run through" of creating questions, collecting data and analysing it, we will NOT be talking best practice here. This is about the workflow and tools used in this type of endeavour, so that you aren't running into problems using them for the first time during your assignment, and so you know what is possible. The theory behind playtesting and best practice approaches are covered in the lecture and SGTA for this week.
+This week's task draws primarily on our playtesting week earlier in semester, and this week's content on multiplayer games. You should mobilise the practices, frameworks and theories introduced in these weeks to formulate valid instruments for measuring important elements of multiplayer gameplay. 
 
 ## Tools used
 Today's task uses (but is not limited to):
@@ -11,37 +11,25 @@ Today's task uses (but is not limited to):
 * Microsoft Excel
 
 ## Assignment deliverable
-You will not be creating any assignment deliverables today. However, you will be getting familiar with the tools needed to create playtesting instruments and visualising the results. These skills will be very helpful for the final assignment.
-
-## Tabletop Game Task Released (15 min)
-The final assignment, Tabletop Game Design and Game Playtesting, has been released on iLearn. If you haven't already, now is a good time to give it a quick look. 
-
-Have a read over the assignment and ask yourself:
-
-* Is what I'm expected to make clear to me?
-* Do I understand what each individual component of the assignment is? (Write down each thing that must be done and submitted).
-* Do I understand what the rubric is asking of me? What kind of mark do I think I should aim for in this assignment? (Hint: it's okay to not aim for HD. We understand if this unit isn't your whole life! You should be honest with yourself so you can team up with people with similar goals).
-
-Any questions you might have that come from asking yourself these questions, jot them down to email to the lecturers or see us in the lecture next week! We're more than happy to spend some time answering questions!
+Today you will be conducting a trial playtest on your tabletop game. This practice should inform your practice and allow you to conduct your later playtests in a more deliberate, informed way. If you are not in a position to playtest any elements of your tabletop game, you can instead use _31_, which is already built into playingcards.io. This sheet will assume you are using your tabletop game.
 
 ## Designing a Playtest
-Today, we will be creating a sort of "trial playtest" from one of the games on playingcards.io. You'll be exploring the theory around what makes a good playtest in the SGTA, but here we are going to focus on implementation.
+Alone or with other students in your assignment group, discuss the kind of design questions you want to answer in today's playtest. Note that while full playthroughs will be needed, it is valid (and necessary) to test early versions of your game, even if only a handful of mechanics are ready to go. Playtesting can start as soon as there is a functional prototype!
 
-Head to playingcards.io and select a game. Let's go with _31_, because it is a two-player game and therefore you can get as much respondent data as possible.
-
-Have a bit of a play around with _31_ and ensure you understand how the game works. Think about the kind of questions you'll need to ask to answer the following design questions:
-
+Begin by considering the design questions your group is currently facing. Remember, these are not the questions you will ask your players, but instead the questions _you_ will try to answer through the data. Some (generic) examples:
 * What kind of strategies do players employ, if any, when playing the game?
 * Are the rules of the game easy to understand and follow?
 * How well does the game engage with the experience goal of __Fellowship__?
 
-Have a think about the kinds of questions you would ask players in a post-game survey to answer these questions. Keep in mind that you can get meaningful data via observation and other methods, but for now we are focused on surveys. You also want to consider a small set of important demographic/psychographic data you want to collect.
+Once you've got two-three design questions, start to consider _how_ you will capture this data. Remember, you generally won't get anywhere just asking your players directly these questions. You need to consider what meaningful data points should be measured as symtpoms of these design goals being met/not met (e.g., someone struggling to follow the rules of a game would likely be asking the same questions a lot, or making invalid moves. This is a data point that can be captured!).
 
-Write down a plan, coming up with two-three survey questions for each of the above design questions. It would behove you to combine methods to get the most out of these tasks, so ensure you have at least one of each of the following:
+Write down a plan, coming up with two-three survey questions for each design question. It would behove you to combine methods to get the most out of these tasks, so ensure you have a mix of:
 
-* A Likert scale
-* A multiple-choice question
-* An open-ended question
+* Likert scales
+* Multiple-choice questions
+* Open-ended questions
+
+We'll go over how to build these in the next section.
 
 As the lecture discussed, each of these are useful for gathering different types of data. We want to understand how to use Microsoft Forms to get this data, and methods for analysing this data, to make our lives easier when we do the final assignment.
  
@@ -91,13 +79,16 @@ A net prompter score is a lot like a Likert scale in that it asks participants t
 There are a few other tools within Microsoft Forms, but we don't want to overwhelm you here. Feel free to experiment in your free time with this, but we strongly believe you can complete the assignment with Multiple Choice, Likert, Net Prompter, Text questions, and Sections.
 
 ## Collecting Data
-Once you have created your survey (with a mix of instruments, and answering the design questions from before), get someone over to fill out your surplay _31_ with you and then fill out your survey. Do the same for them. You want to repeat this process a few times to ensure you have a good amount of data. You probably don't need to play _31_ each time!
+Once you have created your survey (with a mix of instruments, and answering the design questions from before), start moving about to play each other's games. Leave one team member behind to run the playtest, while everyone else goes and engages in playtesting. Your instructor can help direct you to ensure everyone can meaningfully participate.
 
 To give someone your survey, click "Collect Responses" on your survey and copy the link. Be mindful of the permissions data on the right -- you will probably want to set this to "Anyone can respond" when collecting data for your game so you can spread the playtesting far and wide.
 
 ![Data Collection](images/collectdata.png)
 
+For your data to mean anything, you'll need to collect as much as possible. Try to get around to as many games as you can! Depending on class size, this may also involve switching-out playtesting administrators, playing games with members of other groups, etc.
+
 ## Importing, visualising and reading data in Excel
+Return to your groups. It's time to prepare your findings and show them to the class!
 
 ### Getting data into Excel
 Once you've got enough data, return to your form and press the "View responses" button. You'll be presented with a screen that will give you an okay break down of the data, but nothing super useful. Instead, we want to get this data into Excel so we can create our own visualisations, analyse it, and share it with our team (and our markers!). Press the small arrow next to "Open results in Excel" and then click "Download a Copy". Open this data in Excel.
@@ -119,19 +110,18 @@ The data on the far left is the raw data. Next to it, we've counted instances of
 
 Spend some time exploring the visualisation of your data. You can edit the title of a chart by clicking on its title. You can modify the chart by selecting Chart Design and then Add Chart Element, clicking one of the Styles, or exploring the other options.
 
+You may wish to break this task up among your team, so different team members are working on different visualisations.
+
 ### Reading the data
-Once you've got one or two visualisations, do some analysis. What are some interesting observations? Data analysis is iterative - don't be afraid to create more charts, re-create them, etc. to follow any interesting results. You might find one correlation that deserves further enquiry, or that you need to look at your data in a different way to get useful results. 
+Once you've got your visualisations, do some analysis. What are some interesting observations? Data analysis is iterative - don't be afraid to create more charts, re-create them, etc. to follow any interesting results. You might find one correlation that deserves further enquiry, or that you need to look at your data in a different way to get useful results. 
 
 Write down your observations from your data, taking note of where data might be incomplete, or where conclusions can't be drawn for one reason or another (lack of clarity of a question, or factors that may have skewed results).
 
-Once you are done, share your observations with another student. Discuss your results together and how you came to those conclusions.
+Once you are done, yoru instructor will ask you to share your visualisations and findings. Moving around the room, each group should talk through:
+* What design questions they were trying to answer.
+* What data they collected.
+* What they discovered and why (using the visualisations as an aid).
 
-## Reflect
-Reflect on this exercise and the data collected. Consider:
-
-* Did the questions you asked your participants provide meaningful answers to your design questions? Why/why not?
-* Did you use the right instruments for these questions (e.g., did you use a Likert appropriately)? Why/why not?
+Each team should also be reflecting on if:
+* Did the instruments used provide meaningful answers to your design questions? Why/why not?
 * Was your data easy to visualise and analyse? What visualisation methods worked best?
-
-## Next Week
-Next week, you will begin considering the world building and metaphor of your tabletop game.
