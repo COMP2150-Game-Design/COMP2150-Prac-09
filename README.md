@@ -1,5 +1,5 @@
 # Week 09 - Playtesting Tools
-In today's prac, we will be introducing you to some of the tools and standards to use when conducting playtests. You will be conducting a trial playtest on your tabletop game, giving you the experience and insight you need for your future playtests.
+In today's prac, we will be introducing you to some of the tools and standards to use when conducting playtests. You will be conducting a trial playtest on your tabletop game, giving you experience and insight for your future playtests.
 
 This week's task draws primarily on our playtesting week earlier in semester, and this week's content on multiplayer games. You should mobilise the practices, frameworks and theories introduced in these weeks to formulate valid instruments for measuring important elements of multiplayer gameplay. 
 
@@ -11,9 +11,9 @@ Today's task uses (but is not limited to):
 * Microsoft Excel
 
 ## Assignment deliverable
-Today you will be conducting a trial playtest on your tabletop game. This practice should inform your practice and allow you to conduct your later playtests in a more deliberate, informed way. If you are not in a position to playtest any elements of your tabletop game, you can instead use _31_, which is already built into playingcards.io. This sheet will assume you are using your tabletop game.
+Today you will be conducting a trial playtest on your tabletop game. This exercise should inform your practice and allow you to conduct later playtests in a more deliberate, informed way. If you are not in a position to playtest any elements of your tabletop game, you can instead use _31_, which is already built into playingcards.io. This sheet will assume you are using your tabletop game.
 
-## Designing a Playtest
+## Designing a Playtest (15 min)
 Alone or with other students in your assignment group, discuss the kind of design questions you want to answer in today's playtest. Note that while full playthroughs will be needed, it is valid (and necessary) to test early versions of your game, even if only a handful of mechanics are ready to go. Playtesting can start as soon as there is a functional prototype!
 
 Begin by considering the design questions your group is currently facing. Remember, these are not the questions you will ask your players, but instead the questions _you_ will try to answer through the data. Some (generic) examples:
@@ -21,7 +21,7 @@ Begin by considering the design questions your group is currently facing. Rememb
 * Are the rules of the game easy to understand and follow?
 * How well does the game engage with the experience goal of __Fellowship__?
 
-Once you've got two-three design questions, start to consider _how_ you will capture this data. Remember, you generally won't get anywhere just asking your players directly these questions. You need to consider what meaningful data points should be measured as symtpoms of these design goals being met/not met (e.g., someone struggling to follow the rules of a game would likely be asking the same questions a lot, or making invalid moves. This is a data point that can be captured!).
+Once you've got two-three design questions, start to consider _how_ you will capture this data. Remember, you generally won't get anywhere just asking your players these questions directly. You need to consider what meaningful data points should be measured as indicators of these design goals being met/not met (e.g., someone struggling to follow the rules of a game would likely be asking the same questions a lot, or making invalid moves. This is a data point that can be captured!).
 
 Write down a plan, coming up with two-three survey questions for each design question. It would behove you to combine methods to get the most out of these tasks, so ensure you have a mix of:
 
@@ -31,9 +31,9 @@ Write down a plan, coming up with two-three survey questions for each design que
 
 We'll go over how to build these in the next section.
 
-As the lecture discussed, each of these are useful for gathering different types of data. We want to understand how to use Microsoft Forms to get this data, and methods for analysing this data, to make our lives easier when we do the final assignment.
+As the lecture discussed, each of these are useful for gathering different types of data. You want to understand how to use Microsoft Forms to get this data, and methods for analysing this data.
  
-## Creating a Microsoft Form
+## Creating a Microsoft Form (15 min)
 Once you have your survey questions, head to [forms.office.com](https://forms.office.com/) and press the "New Form" button (You'll probably need to log-in). 
 
 ![New form button](images/newform.png)
@@ -78,7 +78,7 @@ A net prompter score is a lot like a Likert scale in that it asks participants t
 ### Other tools
 There are a few other tools within Microsoft Forms, but we don't want to overwhelm you here. Feel free to experiment in your free time with this, but we strongly believe you can complete the assignment with Multiple Choice, Likert, Net Prompter, Text questions, and Sections.
 
-## Collecting Data
+## Collecting Data (35 min)
 Once you have created your survey (with a mix of instruments, and answering the design questions from before), start moving about to play each other's games. Leave one team member behind to run the playtest, while everyone else goes and engages in playtesting. Your instructor can help direct you to ensure everyone can meaningfully participate.
 
 To give someone your survey, click "Collect Responses" on your survey and copy the link. Be mindful of the permissions data on the right -- you will probably want to set this to "Anyone can respond" when collecting data for your game so you can spread the playtesting far and wide.
@@ -87,7 +87,7 @@ To give someone your survey, click "Collect Responses" on your survey and copy t
 
 For your data to mean anything, you'll need to collect as much as possible. Try to get around to as many games as you can! Depending on class size, this may also involve switching-out playtesting administrators, playing games with members of other groups, etc.
 
-## Importing, visualising and reading data in Excel
+## Importing, visualising and reading data in Excel (25 min)
 Return to your groups. It's time to prepare your findings and show them to the class!
 
 ### Getting data into Excel
@@ -117,7 +117,9 @@ Once you've got your visualisations, do some analysis. What are some interesting
 
 Write down your observations from your data, taking note of where data might be incomplete, or where conclusions can't be drawn for one reason or another (lack of clarity of a question, or factors that may have skewed results).
 
-Once you are done, yoru instructor will ask you to share your visualisations and findings. Moving around the room, each group should talk through:
+
+## Presenting (20 min)
+Once you are done, your instructor will ask you to share your visualisations and findings. Moving around the room, each group should talk through:
 * What design questions they were trying to answer.
 * What data they collected.
 * What they discovered and why (using the visualisations as an aid).
